@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+h1 {
+  border-style: solid;
+  border-radius: 20px;
+  margin-left: 150px;
+  margin-right: 150px;
+  padding: 5px;
+  background-image: linear-gradient(white, rgb(159, 130, 206));
+}
+
+img {
+  border-color: rgb(159, 130, 206);
+  border-width: 10px;
+  padding: 5px;
+  border-style: solid;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
+h4 {
+  color: rgb(159, 130, 206);
+}
+
+a {
+  border-style: solid;
+  float: left;
+  border-radius: 15px;
+  border-color: black;
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+  background-image: linear-gradient(rgb(159, 130, 206), black);
+}
+
+#portfolio {
+  text-align: left;
+}
